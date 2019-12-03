@@ -18,4 +18,4 @@ Winter Wheat Yield Estimation from Multi-temporal Remote Sensing Images Based on
 
 对于代码和文章有更近一步想法的小伙伴多多批评指正，邮箱blackmhw@gmail.com  Wechat:mkgr1314520
 
-向大佬致敬(https://cs.stanford.edu/~jiaxuan/)，  多谢最早开始此项目的作者Jiaxuan You的支持，论文地址：https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14435
+向大佬致敬( https://cs.stanford.edu/~jiaxuan/ )，  多谢最早开始此项目的作者Jiaxuan You的支持，论文地址：https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14435
